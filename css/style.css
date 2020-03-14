@@ -18,6 +18,8 @@ p {
     font-style: italic;
     color: white;
     font-size: 20px;
+       padding-right: 50px;
+    padding-left: 50px;
 }
 navbar {
     overflow: hidden;
